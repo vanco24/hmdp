@@ -10,7 +10,6 @@ public class HmDianPingApplication {
 
     //第一次提交
 
-    //第二次提交
     public static void main(String[] args) {
         SpringApplication.run(HmDianPingApplication.class, args);
     }
