@@ -8,8 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class HmDianPingApplication {
 
-    //初始版本
-
+    //实战版本
     public static void main(String[] args) {
         SpringApplication.run(HmDianPingApplication.class, args);
     }
